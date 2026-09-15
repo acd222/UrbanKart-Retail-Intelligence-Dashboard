@@ -1,4 +1,5 @@
-<img width="27" height="26" alt="image" src="https://github.com/user-attachments/assets/9fb2244c-8984-47ff-9a1f-d1056d307e1e" /># UrbanKart-Retail-Intelligence-Dashboard
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/749b5cbe-e092-4a76-bba6-5b85ec61baa4" />
+ UrbanKart-Retail-Intelligence-Dashboard
 
 📌 Project Overview
 An interactive executive dashboard designed to analyze retail performance, product inventory statuses, financial health and customer purchasing behaviours. It processes key operational metrics to deliver data-driven insights into sales trends, regional distribution and payment efficiencies.
